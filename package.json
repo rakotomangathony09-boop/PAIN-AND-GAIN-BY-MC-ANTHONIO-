@@ -1,0 +1,13 @@
+{
+  "name": "terminal-smc-weltrade",
+  "version": "1.0.0",
+  "description": "Analyseur SMC automatique Pain/Gain 400",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "puppeteer": "^21.0.0",
+    "telegraf": "^4.12.0"
+  }
+}
